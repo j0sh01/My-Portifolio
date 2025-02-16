@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Sets the root directory to the project root
+    "paths": {
+      "@/*": ["./*"] // Allows aliasing '@/...' to the root directory
+    }
+  },
+  "include": [
+    "next-env.d.ts", // Ensures Next.js types are included
+    "**/*.js", // Includes all JavaScript files in the project
+    "**/*.jsx" // Includes all JSX files in the project
+  ],
+  "exclude": ["node_modules"] // Excludes node_modules to avoid unnecessary checks
+}
