@@ -10,7 +10,7 @@ export default function handler(req, res) {
     res.setHeader('Content-Type', 'application/pdf');
     res.setHeader('Content-Disposition', 'attachment; filename="JOSHUA-JOSEPH-MICHAEL-CV.pdf"');
     res.send(fileBuffer);
-  } catch (error) {
+  } catch {
     res.status(500).json({ error: 'Failed to download CV' });
   }
 }

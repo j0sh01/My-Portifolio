@@ -9,7 +9,7 @@ export default function Hero() {
         {/* Left Section: Text Content */}
         <div className="flex max-w-[980px] flex-col items-start gap-2">
           <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-            Hi, I'm Joshua Joseph Michael<br className="hidden sm:inline" />
+            Hi, I&apos;m Joshua Joseph Michael<br className="hidden sm:inline" />
             Frappe/ERPNext Expert & Full-Stack Developer
           </h1>
           <p className="max-w-[700px] text-lg text-muted-foreground">
@@ -17,7 +17,7 @@ export default function Hero() {
             in developing custom apps and modules using client-side JavaScript
             and server-side Python. With a strong foundation in Python, JavaScript, 
             and PHP, I bring expertise in building scalable, efficient, and user-friendly 
-            ERP solutions. Whether it's scripting or designing, I craft tailored digital 
+            ERP solutions. Whether it&apos;s scripting or designing, I craft tailored digital 
             solutions for your business needs.
           </p>
           <div className="flex gap-4 mt-4">

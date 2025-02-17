@@ -27,9 +27,9 @@ export default function Header() {
           <Link href="#contact">Contact</Link>
         </nav>
         <div className="flex items-center space-x-2">
-          <a href="/api/download">
+          <Link href="/api/download" passHref>
             <Button variant="outline">Download CV</Button>
-          </a>
+          </Link>
         </div>
       </div>
     </header>

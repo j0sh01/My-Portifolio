@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import Image from 'next/image'; 
 import nairobi from '../src/images/nairobi.jpeg';
 import nairobi1 from '../src/images/nairobi1.jpeg';
-import nairobi2 from '../src/images/nairobi2.jpeg';
 
 const images = [
   { src: nairobi, alt: 'Photo Image' },
