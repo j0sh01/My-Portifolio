@@ -9,7 +9,7 @@ export default function handler(req, res) {
     const contacts = JSON.parse(fileContents);
     
     res.status(200).json(contacts);
-  } catch (error) {
+  } catch {
     res.status(500).json({ error: 'Failed to read contacts' });
   }
 }

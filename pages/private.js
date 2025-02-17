@@ -9,7 +9,6 @@ import Footer from '../components/Footer';
 import EducationTimeline from '../components/School';
 import Carousel from '../components/Carousel';
 import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
 
 export default function Private() {
   const [contacts, setContacts] = useState([]);
