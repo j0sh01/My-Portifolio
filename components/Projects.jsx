@@ -19,7 +19,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Designed and developed a personal portfolio showcasing my skills, projects, and achievements.",
     technologies: ["Next.js", "Tailwind CSS", "JavaScript"],
-    link: "https://example.com/portfolio"
+    link: "https://github.com/j0sh01/My-Portifolio"
   },
 ];
 
