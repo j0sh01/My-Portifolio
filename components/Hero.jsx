@@ -56,7 +56,7 @@ export default function Hero() {
             Frappe/ERPNext Expert & Full-Stack Developer
           </h1>
           <p className="max-w-[700px] text-lg text-muted-foreground">
-            As a Frappe/ERPNext expert with nearly a year of experience, I specialize
+            As a Frappe/ERPNext expert with a year of experience, I specialize
             in developing custom apps and modules using client-side JavaScript
             and server-side Python. With a strong foundation in Python, JavaScript, 
             and PHP, I bring expertise in building scalable, efficient, and user-friendly 
