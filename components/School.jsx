@@ -56,7 +56,7 @@ export default function EducationTimeline() {
       year: "2018 - 2020",
       title: "Advanced Level",
       school: "Kibiti Boys High School",
-      description: "Specialized in EGM (Economics, Geography, Mathematics) with exceptional grades. Led the school's robotics team.",
+      description: "Specialized in EGM (Economics, Geography, Mathematics) with exceptional grades.",
       icon: BookOpen
     },
     {
